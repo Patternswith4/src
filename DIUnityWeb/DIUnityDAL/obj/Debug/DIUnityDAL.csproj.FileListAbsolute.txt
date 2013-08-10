@@ -1,0 +1,7 @@
+c:\users\sgvarshx\documents\visual studio 2012\Projects\DIUnityWeb\DIUnityDAL\bin\Debug\DIUnityDAL.dll
+c:\users\sgvarshx\documents\visual studio 2012\Projects\DIUnityWeb\DIUnityDAL\bin\Debug\DIUnityDAL.pdb
+c:\users\sgvarshx\documents\visual studio 2012\Projects\DIUnityWeb\DIUnityDAL\obj\Debug\DIUnityDAL.csprojResolveAssemblyReference.cache
+c:\users\sgvarshx\documents\visual studio 2012\Projects\DIUnityWeb\DIUnityDAL\obj\Debug\DIUnityDAL.dll
+c:\users\sgvarshx\documents\visual studio 2012\Projects\DIUnityWeb\DIUnityDAL\obj\Debug\DIUnityDAL.pdb
+c:\users\sgvarshx\documents\visual studio 2012\Projects\DIUnityWeb\DIUnityDAL\bin\Debug\Microsoft.Practices.Unity.dll
+c:\users\sgvarshx\documents\visual studio 2012\Projects\DIUnityWeb\DIUnityDAL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
